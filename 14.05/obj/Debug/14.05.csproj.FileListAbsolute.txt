@@ -1,0 +1,34 @@
+D:\ФИИТ\Курсовая работа\14.05\14.05\bin\Debug\14.05.exe.config
+D:\ФИИТ\Курсовая работа\14.05\14.05\bin\Debug\14.05.exe
+D:\ФИИТ\Курсовая работа\14.05\14.05\bin\Debug\14.05.pdb
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\14.05.csproj.AssemblyReference.cache
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\14.05.csproj.SuggestedBindingRedirects.cache
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\_14._05.Form1.resources
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\_14._05.Properties.Resources.resources
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\14.05.csproj.GenerateResource.cache
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\14.05.csproj.CoreCompileInputs.cache
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\14.05.exe
+D:\ФИИТ\Курсовая работа\14.05\14.05\obj\Debug\14.05.pdb
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\14.05.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\_14._05.Form1.resources
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\_14._05.Properties.Resources.resources
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\14.05.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\14.05.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\14.05.exe
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\14.05.pdb
+C:\Users\Professional\Desktop\14.05\14.05\bin\Debug\14.05.exe.config
+C:\Users\Professional\Desktop\14.05\14.05\bin\Debug\14.05.exe
+C:\Users\Professional\Desktop\14.05\14.05\bin\Debug\14.05.pdb
+C:\Users\Professional\Desktop\14.05\14.05\obj\Debug\_14._05.SolutionForm.resources
+C:\Users\Professional\Desktop\Новая папка\14.05\bin\Debug\14.05.exe.config
+C:\Users\Professional\Desktop\Новая папка\14.05\bin\Debug\14.05.exe
+C:\Users\Professional\Desktop\Новая папка\14.05\bin\Debug\14.05.pdb
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\14.05.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\_14._05.Form1.resources
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\_14._05.Properties.Resources.resources
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\_14._05.SolutionForm.resources
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\14.05.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\14.05.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\14.05.exe
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\14.05.pdb
+C:\Users\Professional\Desktop\Новая папка\14.05\obj\Debug\_14._05.WelcomeForm.resources
